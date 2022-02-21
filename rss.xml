@@ -4,9 +4,18 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 18:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 19:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Learning with Jupiter]]></title>
+            <guid>45a490fcec86435dadf23bb025408c32</guid>
+            <pubDate>Mon, 21 Feb 2022 17:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Chapter 1 Introduction</p>
+<p>This handbook is for any educator teaching a topic that includes data analysis or computation in order to support learning. It is not just for educators teaching courses in engineering or science, but also data journalism, business and quantitative economics, data-based decision sciences and policy, quantitative health sciences, and digital humanities. It aims to provide an entry point, and a broad overview of Jupyter in education. Whether you are already using Jupyter to teach, you have found learning materials built on Jupyter that piqued your curiosity, or have never heard of Jupyter, the material in this open book can empower you to use this technology in your teaching.</p>
+<p><a title="https://jupyter4edu.github.io/jupyter-edu-book/" href="https://jupyter4edu.github.io/jupyter-edu-book/">https://jupyter4edu.github.io/jupyter-edu-book/</a></p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[1. Welcome to Joplin!]]></title>
             <guid>c7442b806ea143e5ab9945c2c71e532e</guid>
